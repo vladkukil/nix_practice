@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: rgb(54, 54, 54);
+    font: arial;
+    font-size: 20px;
+    position: fixed;
+}
+
+.nav {
+    float: right;
+    padding: 15px;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 50px;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 25px 10px;
+    color: wheat;
+}
+
+.logo {
+    float: left;
+    color: wheat;
+    font-size: 25px;
+    padding: 30px 50px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: wheat;
+}
+
+.main {
+    margin-top: 120px;
+}
